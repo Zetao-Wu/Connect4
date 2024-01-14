@@ -1,0 +1,20 @@
+SRC
+
+User category: Children
+
+Task 1:
+By improving various aspects of the game, children can enjoy a more challenging and engaging experience. Despite concerns about potential negative impacts on their future, these enhancements contribute to fostering cognitive development and strategic thinking, essential skills with long-term benefits for their well-being.
+
+Task 2: 
+A point of divergence arises when considering the creator's motive for improving the game, as one perspective suggests enhancing it to sell at a higher price for increased profits. However, this may conflict with the limited financial resources typically available to children, the primary user category. Placing a price tag on the product might disadvantage the users while benefiting the creator. On the other hand, a point of mutual benefit emerges if the creator aims to expand the game on a larger scale, making it accessible to a broader online audience. This approach could be advantageous for both the creator, who gains more attention and profit, and the children, who benefit from facing a more diverse range of opponents, enhancing the overall entertainment value beyond just AI gameplay.
+
+Task 3:
+Although the AI may approach an understanding of a player's tendencies, achieving complete customization to cater to those tendencies remains highly challenging. Player decision-making is influenced by a myriad of factors, making it nearly impossible to accurately predict their actions. Variables such as emotional states (anger, sadness, happiness) and environmental conditions (pressure) can lead to diverse decisions and impact a player's ability to perform in various ways. Thus, it might not be likely for an AI to fully cater to player’s tendencies.
+
+Task 4: 
+In this context, focusing on children as the user group is particularly relevant. The concept of incentivizing players with in-game points to prolong their playtime would wield a notably higher efficacy on children compared to other age groups. This heightened effectiveness stems from the considerable influence games have on young minds. By intensifying the game's engagement level, the likelihood of it becoming addictive for children increases. However, this heightened engagement comes at the expense of time that could otherwise be allocated to essential activities such as homework, exercise, or other constructive pursuits. This trade-off poses potential short-term and long-term consequences on children's overall well-being and academic performance. Consequently, the implementation of a strategic reward system may escalate the game's addictiveness, leading to adverse effects on children in this specific scenario.
+
+Task 5: 
+Consider Grammarly as the illustrative example. One of Grammarly's primary objectives is to establish an AI platform that empowers users to refine and improve their writing skills, facilitating the creation of grammatically correct content. This aligns seamlessly with the interests of users who grapple with grammar and writing challenges, especially those seeking to compose formally structured emails or other written content. However, another interest of Grammarly involves revenue generation through the provision of exclusive services for a fee. This potential divergence in interests may pose a challenge for consumers who would prefer free access to the service. Consequently, there exists a conflict where Grammarly's pursuit of profit contrasts with the consumer's preference for free services, presenting a scenario where the interests of the company and the consumer may diverge.
+
+citation: https://www.grammarly.com/features
